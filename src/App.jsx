@@ -3,7 +3,7 @@ import React from 'react'
 function App() {
   return (
     <>
-    <h1 className='underline'>Jit Nath</h1>
+    <h1 className='underline text-7xl text-black'>Jit Nath</h1>
     </>
   )
 }
